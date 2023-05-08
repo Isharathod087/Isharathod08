@@ -1,2 +1,1 @@
 Simple-c-program
-Simple c++ program 
