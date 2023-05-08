@@ -1,0 +1,6 @@
+#include<iostream>
+int main()
+{
+STD::court<<"hello would:";
+return 0;
+}
